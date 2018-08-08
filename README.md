@@ -1,6 +1,6 @@
 # Coursera - Getting and Cleaning Data Course Project
-# Introduction : 
-# The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be required to submit: 
+Introduction : 
+The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be required to submit: 
 1) a tidy data set as described below,
 
 2) a link to a Github repository with your script for performing the analysis, and
